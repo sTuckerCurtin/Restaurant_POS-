@@ -1,1 +1,25 @@
-Log:
+Log:Transaction Count : 1
+Dish Ordered : Pizza
+Store 2
+Price : $1.99
+Daily Income: $1.99
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 1
+Price : $2.99
+Daily Income: $2.99
+Transaction Count : 1
+Dish Ordered : Salad
+Store 3
+Price : $4.99
+Daily Income: $4.99
+Transaction Count : 1
+Dish Ordered : Pasta
+Store 3
+Price : $3.0
+Daily Income: $3.0
+Transaction Count : 1
+Dish Ordered : pot
+Store 2
+Price : $2.99
+Daily Income: $2.99

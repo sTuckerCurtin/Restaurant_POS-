@@ -9,7 +9,7 @@ price = float
 class Franchise:
     def __init__(self, location_number):
         self.location_number = location_number
-        
+        self.daily_sales = 0
     def place_order(self):
         while True:
             order_type = input(f"Welcome to Fat Tucks Pizzeria! From store number {self.location_number }, What would you like to order? Pizza, Pasta, or a Salad? ")
@@ -29,3 +29,4 @@ class Franchise:
         order.create_order(order_type, self.location_number)
         logger = Logger()
         logger.log_transaction(order_type, order_price, self.location_number)
+        self.daily_sales += order_price

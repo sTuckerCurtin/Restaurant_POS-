@@ -1,4 +1,3 @@
-# from orderfactory import OrderFactory
 
 class Logger:
     def __init__(self) -> None:
@@ -11,7 +10,7 @@ class Logger:
         self.order_price = order_price
         self.order_store = order_store
         self.transaction_count += 1
-        self.daily_sales += order_price
+        self.daily_sales += self.order_price 
         
         with open("log.txt","a") as file:
             file.write(

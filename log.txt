@@ -98,3 +98,33 @@ Dish Ordered : Pizza
 Store 1
 Price : $25
 Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Salad
+Store 1
+Price : $5.0
+Daily Income: $5.0
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 2
+Price : $25
+Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Pasta
+Store 3
+Price : $10.0
+Daily Income: $10.0
+Transaction Count : 1
+Dish Ordered : Salad
+Store 1
+Price : $5.0
+Daily Income: $5.0
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 1
+Price : $25
+Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 1
+Price : $25.0
+Daily Income: $25.0

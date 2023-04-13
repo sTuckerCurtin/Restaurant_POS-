@@ -1,25 +1,100 @@
 Log:Transaction Count : 1
 Dish Ordered : Pizza
+Store <class 'float'>
+Price : $2
+Daily Income: $0
+Transaction Count : 1
+Dish Ordered : Pizza
+Store <class 'float'>
+Price : $2
+Daily Income: $0
+Transaction Count : 1
+Dish Ordered : Pizza
 Store 2
-Price : $1.99
-Daily Income: $1.99
+Price : $<class 'float'>
+Daily Income: $0
+Transaction Count : 1
+Dish Ordered : Pasta
+Store 4
+Price : $<class 'float'>
+Daily Income: $0
+Transaction Count : 1
+Dish Ordered : Salad
+Store 2
+Price : $5.0
+Daily Income: $0
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 2
+Price : $25
+Daily Income: $0
+Transaction Count : 1
+Dish Ordered : Salad
+Store 2
+Price : $5.0
+Daily Income: $5.0
+Transaction Count : 1
+Dish Ordered : Salad
+Store 1
+Price : $5.0
+Daily Income: $5.0
 Transaction Count : 1
 Dish Ordered : Pizza
 Store 1
-Price : $2.99
-Daily Income: $2.99
+Price : $25
+Daily Income: $25
 Transaction Count : 1
 Dish Ordered : Salad
-Store 3
-Price : $4.99
-Daily Income: $4.99
+Store 2
+Price : $5.0
+Daily Income: $5.0
 Transaction Count : 1
 Dish Ordered : Pasta
-Store 3
-Price : $3.0
-Daily Income: $3.0
+Store 1
+Price : $10.0
+Daily Income: $10.0
 Transaction Count : 1
-Dish Ordered : pot
+Dish Ordered : Pasta
+Store 1
+Price : $10.0
+Daily Income: $10.0
+Transaction Count : 1
+Dish Ordered : Salad
 Store 2
-Price : $2.99
-Daily Income: $2.99
+Price : $5.0
+Daily Income: $5.0
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 3
+Price : $25
+Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 1
+Price : $25
+Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 2
+Price : $25
+Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 3
+Price : $25
+Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 1
+Price : $25
+Daily Income: $25
+Transaction Count : 1
+Dish Ordered : Salad
+Store 1
+Price : $5.0
+Daily Income: $5.0
+Transaction Count : 1
+Dish Ordered : Pizza
+Store 1
+Price : $25
+Daily Income: $25
